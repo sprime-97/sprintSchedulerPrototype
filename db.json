@@ -17,12 +17,6 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": false
-    },
-    {
-      "id": "7fa6",
-      "text": "Today Game",
-      "day": "July 11th at 7:00pm",
-      "reminder": true
     }
   ]
 }
